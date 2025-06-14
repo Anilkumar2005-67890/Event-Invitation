@@ -1,0 +1,27 @@
+.container{
+	margin:auto;
+	max-width:550px;
+	padding:10px;
+	text-align:center;
+	border-radius:5px;
+	background-image:url("https://i1.wp.com/godofindia.com/wp-content/uploads/2017/05/pawan-kalyan-12.jpg");
+	background-size:100%;
+	background-repeat:no-repeat;
+}
+h1{
+	padding:20px;
+	color:red;
+}
+p{
+	color:blue;
+}
+.button1 {
+	display:inline-block;
+    text-align:center;
+	border-radius:10px;
+	color:orange;
+}
+.link1{
+	color:green;
+	margin:auto;
+}
